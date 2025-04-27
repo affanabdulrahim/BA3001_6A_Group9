@@ -14,3 +14,6 @@ def add_numbers(a, b):
 #Hassaan bin kamran
 name = "World"
 print(f"Hello, {name}!")
+
+#Haseeb Ahsan
+print("Hello, World!")

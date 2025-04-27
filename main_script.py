@@ -10,3 +10,7 @@ Original file is located at
 # Added By Affan This function adds two numbers
 def add_numbers(a, b):
     return a + b
+
+#Hassaan bin kamran
+name = "World"
+print(f"Hello, {name}!")
